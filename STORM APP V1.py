@@ -16,9 +16,10 @@ from datetime import datetime
 
 # Version and Update Configuration
 CURRENT_VERSION = "1.2.0"
-UPDATE_URL = "https://raw.githubusercontent.com/your-repo/storm-app/main/version.json"
-SCRIPT_URL = "https://raw.githubusercontent.com/your-repo/storm-app/main/STORM_APP_V1.py"
+UPDATE_URL = "https://raw.githubusercontent.com/Khlaidelsharqawy/STORM_APP/main/version.json"
+SCRIPT_URL = "https://raw.githubusercontent.com/Khlaidelsharqawy/STORM_APP/main/STORM%20APP%20V1.py"
 
+# =======================
 # =======================
 # Remote Update System
 # =======================
