@@ -1,0 +1,17 @@
+{
+  "version": "1.2.0",
+  "release_date": "2024-01-15",
+  "download_url": "https://raw.githubusercontent.com/your-repo/storm-app/main/STORM_APP_V1.py",
+  "changelog": [
+    "Translated all Arabic text to English",
+    "Added remote update system",
+    "Improved speed optimizations",
+    "Enhanced error handling"
+  ],
+  "minimum_requirements": {
+    "python": "3.7+",
+    "selenium": "4.0+",
+    "requests": "2.25+"
+  },
+  "notes": "This version includes full English interface and remote update capabilities"
+}

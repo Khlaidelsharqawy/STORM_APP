@@ -1,0 +1,16 @@
+{
+  "update_server": {
+    "version_check_url": "https://raw.githubusercontent.com/your-repo/storm-app/main/version.json",
+    "auto_check": true,
+    "check_interval_hours": 24
+  },
+  "app_settings": {
+    "current_version": "1.2.0",
+    "auto_update": true,
+    "backup_before_update": true
+  },
+  "logging": {
+    "enable_update_logs": true,
+    "log_file": "update.log"
+  }
+}
